@@ -10206,9 +10206,9 @@
     "restore": {
       "projectUniqueName": "AzureDevOps_CherryPick",
       "projectName": "AzureDevOps_CherryPick",
-      "projectPath": "C:\\Users\\vijay.bhaskar\\OneDrive - UiPath\\Documents\\UiPath\\AzureDevOps_CherryPick\\.local",
+      "projectPath": "C:\\Users\\vijay.bhaskar\\OneDrive - UiPath\\Documents\\Git\\Cherry_Picking\\.local",
       "packagesPath": "C:\\Users\\vijay.bhaskar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vijay.bhaskar\\OneDrive - UiPath\\Documents\\UiPath\\AzureDevOps_CherryPick\\.local"
+      "outputPath": "C:\\Users\\vijay.bhaskar\\OneDrive - UiPath\\Documents\\Git\\Cherry_Picking\\.local"
     },
     "frameworks": {
       "net461": {
